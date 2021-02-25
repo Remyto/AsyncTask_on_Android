@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AuthActivity</string>
+
+    <string name="et_username">Username</string>
+    <string name="et_password">Password</string>
+    <string name="b_authenticate">Authenticate</string>
+    <string name="tv_result">My result here</string>
+
+    <string name="b_getAnImage">Get an image</string>
+    <string name="img_placeHolder">Your image here</string>
+    <string name="title_activity_list">ListActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="get_list_of_images">Get List of Images</string>
+
+
+</resources>

@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "MDA_TP2_Asynchronous_tasks_and_sensors"
